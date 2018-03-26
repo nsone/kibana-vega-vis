@@ -49,7 +49,7 @@
     "leaflet-vega": "^0.5.4",
     "semver": "^5.4.1",
     "split.js": "^1.3.5",
-    "vega-lib": "^3.0.10",
+    "vega-lib": "nsone/vega-lib#temp",
     "vega-lite": "^2.1.2",
     "vega-schema-url-parser": "^1.0.0"
   }
