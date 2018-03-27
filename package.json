@@ -50,8 +50,9 @@
     "semver": "^5.4.1",
     "split.js": "^1.3.5",
     "vega-lib": "nsone/vega-lib#master",
-    "vega-lite": "^2.1.2",
+    "vega-lite": "nsone/vega-lite#2.3.1",
     "vega-transforms": "nsone/vega-transforms#master",
+    "vega": "nsone/vega#master",
     "vega-schema-url-parser": "^1.0.0"
   }
 }
