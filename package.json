@@ -51,6 +51,7 @@
     "split.js": "^1.3.5",
     "vega-lib": "nsone/vega-lib#master",
     "vega-lite": "nsone/vega-lite#master",
+    "vega-transforms": "nsone/vega-transforms#master",
     "vega-schema-url-parser": "^1.0.0"
   }
 }
